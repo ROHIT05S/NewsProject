@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">News@</string>
+    <string name="news_api_key">6cec9a688b7d481f9cebfca8ceca9a5a</string>
+    <string name="home_text_view">Please Select Any Category To See the News List....</string>
+    <string-array name="news_symbol">
+        <item>B</item>
+        <item>E</item>
+        <item>H</item>
+        <item>S</item>
+        <item>S</item>
+        <item>T</item>
+        <item>G</item>
+    </string-array>
+    <string-array name="news_symbol_category">
+        <item>Business</item>
+        <item>Entertainment</item>
+        <item>Health</item>
+        <item>Science</item>
+        <item>Sports</item>
+        <item>Technology</item>
+        <item>Geographic</item>
+    </string-array>
+</resources>
